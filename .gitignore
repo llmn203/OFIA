@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.nc
+*.zarr/
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+outputs/
+results/
+data/
+.DS_Store

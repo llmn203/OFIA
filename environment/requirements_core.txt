@@ -1,0 +1,14 @@
+numpy
+pandas
+xarray
+scipy
+netCDF4
+h5netcdf
+PyYAML
+matplotlib
+seaborn
+torch
+python-docx
+python-pptx
+Pillow
+openpyxl
